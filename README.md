@@ -1,8 +1,8 @@
 # Whatsapp-message-automation
-
-
+Python based selenium project to send automatic whatspp messages specifying the name, message, and the count of the message.
 
 Language : Python
+
 Tools : Selenium and chromedriver
 
 Requirements:
