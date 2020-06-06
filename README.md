@@ -24,8 +24,8 @@ Documentation:
 
 	run the python file (whatsapp.py)
 
-	( chrome opens and requests you to scan the qr code for whatspp)
+	Enter the details that the code prompts. Once details given, chrome opens and requests you to scan the qr code for whatspp from mobile.
 
-	Once scanned, go to the python script that is currently running and fill in the details as the script prompts.
+	Once scanned, select the python script currently running and press any key to proceed.
 	
-	After entering the details the message would have been send in whatspp.
+	
